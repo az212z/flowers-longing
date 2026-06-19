@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ورد الشوق">
+  <rect width="64" height="64" rx="14" fill="#fdf6f1"/>
+  <g transform="translate(32 30)">
+    <g fill="#b76e79">
+      <ellipse cx="0" cy="-9" rx="7" ry="10"/>
+      <ellipse cx="9" cy="-3" rx="7" ry="10" transform="rotate(72 9 -3)"/>
+      <ellipse cx="5.5" cy="8" rx="7" ry="10" transform="rotate(144 5.5 8)"/>
+      <ellipse cx="-5.5" cy="8" rx="7" ry="10" transform="rotate(216 -5.5 8)"/>
+      <ellipse cx="-9" cy="-3" rx="7" ry="10" transform="rotate(288 -9 -3)"/>
+    </g>
+    <circle cx="0" cy="0" r="6" fill="#c9a24b"/>
+  </g>
+  <rect x="30" y="40" width="4" height="16" rx="2" fill="#5e6b4f"/>
+</svg>
